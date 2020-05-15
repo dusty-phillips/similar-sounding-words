@@ -7,7 +7,7 @@ print("why u suck?")
 
 setuptools.setup(
     name="similar-sounding-words",
-    version="0.0.1",
+    version="0.0.2",
     description="A list of similar sounding words to help disambiguate voice coding",
     long_description=long_description,
     long_description_content_type="text/markdown",
