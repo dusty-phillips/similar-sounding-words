@@ -1,0 +1,5 @@
+{
+    "python.dataScience.maxOutputSize": 100,
+    "python.dataScience.textOutputLimit": 200,
+    "python.formatting.provider": "black"
+}

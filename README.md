@@ -19,3 +19,6 @@ random three Jupiter notebook available in the github repository
 to generate the index.
 
 All source files are copyright their respective authors.
+
+## TODO
+ * add mapping of words to numbers

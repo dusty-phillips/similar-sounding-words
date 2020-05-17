@@ -1,0 +1,10 @@
+accepting,excepting
+an,and,end
+are,r
+at,add,ad
+create,crate
+grade,grate,great,grid
+peer,pure
+poll,paul,pull,pole
+rust,rest
+right,rate
