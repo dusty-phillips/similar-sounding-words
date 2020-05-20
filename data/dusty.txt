@@ -3,8 +3,16 @@ an,and,end
 are,r
 at,add,ad
 create,crate
+drying,trying
+fat,vat
+fail,feel
 grade,grate,great,grid
-peer,pure
+peer,pier,pure,appear
+peers,piers
 poll,paul,pull,pole
+rap,wrap
+rapper,wrapper
 rust,rest
 right,rate
+sink,sync
+well,we'll,wheel,while,will
